@@ -1,5 +1,4 @@
-# 📌 Challenge_Telecom_X_Parte2  
-## TelecomX – Previsão de Churn (Parte 2)
+# 📌 Challenge_TelecomX – Previsão de Churn (Parte 2)
 
 ### 📖 Sobre o Projeto
 Este projeto é a segunda etapa do desafio **TelecomX**, dando continuidade ao tratamento e à análise exploratória realizados na Parte 1.  
