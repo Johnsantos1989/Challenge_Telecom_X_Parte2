@@ -1,13 +1,14 @@
-# Challenge_Telecom_X_Parte2
+Challenge_Telecom_X_Parte2
 
 📌 TelecomX – Previsão de Churn (Parte 2)
+
 📖 Sobre o Projeto
 
-Este projeto representa a segunda etapa da análise desenvolvida no desafio TelecomX, dando continuidade ao tratamento e à análise exploratória realizados na Parte 1.
+Este projeto representa a segunda etapa do desafio TelecomX, dando continuidade ao tratamento e à análise exploratória realizados na Parte 1.
 
-Nesta fase, avancei para a modelagem preditiva, com o objetivo de identificar clientes com maior risco de evasão (churn) e propor estratégias orientadas por dados para retenção.
+Nesta fase, o foco foi a modelagem preditiva, com o objetivo de identificar clientes com maior risco de evasão (churn) e propor estratégias orientadas por dados para retenção.
 
-O foco principal foi transformar insights descritivos em soluções preditivas aplicáveis ao negócio.
+O projeto transforma insights descritivos da Parte 1 em soluções preditivas aplicáveis ao negócio.
 
 🎯 Objetivos
 
@@ -40,9 +41,9 @@ Regressão Logística
 
 Random Forest
 
-A normalização foi aplicada quando necessária, considerando as características de cada algoritmo.
+A normalização foi aplicada conforme necessário, considerando as características de cada algoritmo.
 
-📈 Avaliação dos Modelos
+3️⃣ Avaliação dos Modelos
 
 Os modelos foram avaliados utilizando:
 
@@ -56,13 +57,10 @@ F1-score
 
 Matriz de confusão
 
-A Random Forest apresentou o melhor desempenho entre os modelos avaliados, demonstrando maior capacidade de capturar padrões não lineares e melhor generalização.
-
-A Regressão Logística complementou a análise ao permitir interpretação direta dos coeficientes e da influência das variáveis.
+A Random Forest apresentou melhor desempenho, capturando padrões não lineares e proporcionando melhor generalização.
+A Regressão Logística complementou a análise, permitindo interpretação direta dos coeficientes e influência das variáveis.
 
 🔎 Principais Variáveis Relacionadas ao Churn
-
-As variáveis com maior impacto na previsão de evasão foram:
 
 customer_tenure (tempo de permanência)
 
@@ -74,21 +72,19 @@ Tipo de contrato
 
 Método de pagamento
 
-Os resultados indicam que clientes com menor tempo de contrato e contratos mensais apresentam maior probabilidade de churn.
+Clientes com menor tempo de contrato e contratos mensais apresentam maior probabilidade de churn.
 
 💡 Recomendações Estratégicas
 
-Com base nos resultados obtidos, proponho:
+Implementar ações de retenção nos primeiros meses de contrato
 
-Ações de retenção nos primeiros meses de contrato
+Incentivar contratos de longo prazo
 
-Incentivo a contratos de longo prazo
+Monitorar clientes com alto risco predito
 
-Monitoramento de clientes com alto risco predito
+Estimular métodos de pagamento automáticos
 
-Estímulo a métodos de pagamento automáticos
-
-Implementação do modelo como ferramenta de apoio à decisão
+Integrar o modelo como ferramenta de apoio à decisão
 
 🛠️ Tecnologias Utilizadas
 
@@ -104,7 +100,7 @@ Scikit-learn
 
 📌 Conclusão
 
-Ao integrar análise exploratória e modelagem preditiva, consegui transformar dados em insights estratégicos e propor ações concretas para redução da evasão.
+Ao integrar análise exploratória e modelagem preditiva, foi possível transformar dados em insights estratégicos e propor ações concretas para redução da evasão.
 
 Este projeto demonstra a aplicação prática de técnicas de Machine Learning para resolver problemas reais de negócio, com foco em retenção de clientes e tomada de decisão orientada por dados.
 
