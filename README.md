@@ -84,7 +84,7 @@ Este projeto demonstra a aplicação prática de técnicas de Machine Learning p
 
 ### 🔗 Projeto Relacionado
 📎 Parte 1 – Análise Exploratória e Tratamento de Dados  
-*([Adicionar link do repositório Parte 1 aqui](https://github.com/Johnsantos1989/Challenge-Telecom-X))*  
+*([https://github.com/Johnsantos1989/Challenge-Telecom-X]))*  
 
 ---
 
